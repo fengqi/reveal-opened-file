@@ -16,7 +16,7 @@
     "commands": [
       {
         "command": "reveal-opened-file.showActiveFileInExplorer",
-        "title": "show Active File In Explorer",
+        "title": "Show Active File In Explorer",
         "icon": {
           "light": "./media/focus-light.svg",
           "dark": "./media/focus-dark.svg"
