@@ -3,6 +3,7 @@
   "displayName": "reveal-opened-file",
   "description": "",
   "version": "0.0.1",
+  "publisher": "fengqi-vscode-ext",
   "engines": {
     "vscode": "^1.87.0"
   },
